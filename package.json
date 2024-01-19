@@ -1,0 +1,28 @@
+{
+  "name": "third-party",
+  "version": "1.0.0",
+  "description": "The Effectra/ThirdParty Package Typescript version",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effectra/third-party-ts.git"
+  },
+  "keywords": [
+    "oauth",
+    "google",
+    "facebook",
+    "linkedin"
+  ],
+  "author": "Mohammed Taha [BMT]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effectra/third-party-ts/issues"
+  },
+  "homepage": "https://github.com/effectra/third-party-ts#readme",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
